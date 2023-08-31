@@ -20,3 +20,7 @@
 ## 运行方式
   首先生成三个可执行程序。如果已经在VSCode上安装CMake插件或者安装了CMake，可以直接用项目中提供的CMake提供的CMakelist生成三个可执行程序。当然也可以不用CMake而是手动编译生成，但是注意在编译时要与os_2.h和os_2.cpp链接。
   生成完可执行程序后，只需在控制台中运行main.exe即可。
+
+## 运行效果
+![image](https://github.com/SharkHeadBalloon/operating-system-lab-2/assets/106319321/976fa731-e60b-4669-9d2f-b0ed2db17cb3)
+![image](https://github.com/SharkHeadBalloon/operating-system-lab-2/assets/106319321/e562b8b6-98be-4d3b-991f-a91badc10101)
